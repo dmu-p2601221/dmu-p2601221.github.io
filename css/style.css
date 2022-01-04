@@ -1,0 +1,89 @@
+body {
+	font-family: sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+.container {
+	max-width: 48rem;
+	margin: 0 auto;
+	padding: 0 2rem 4rem;
+}
+
+.logo {
+	max-width: 100%;
+	background-color: #adad85;
+	text-align: center;
+	color: #333;
+	font-size: 35px;
+	border-radius: 8px;
+	margin: 2rem;
+	padding: 0.5rem;
+}
+
+.menu {
+	background-color: #ddd;
+	color: #333;
+	padding: 1rem 5rem;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 1rem 2rem;
+	cursor: pointer;
+	border-radius: 16px;
+}
+
+video {
+	display: block;
+	border-radius: 12px;
+	max-width: 50%;
+	margin: 4rem auto;
+}
+
+section {
+	padding: 6rem 0;
+	position: relative;
+}
+
+.synonyms {
+	float: left;
+	margin: 1rem;
+	padding: 4rem;
+	max-width: 100%;
+}
+
+.cast1 {
+	float: left;
+	max-width: 100%;
+	background-color: #adad85;
+	text-align: center;
+	margin: 2rem;
+	padding: 4rem;
+	border-radius: 8px;
+}
+
+.cast2 {
+	float: left;
+	max-width: 100%;
+	background-color: #adad85;
+	text-align: center;
+	margin: 2rem;
+	padding: 4rem;
+	border-radius: 8px;
+}
+
+.cast3 {
+	float: left;
+	max-width: 100%;
+	background-color: #adad85;
+	text-align: center;
+	margin: 2rem;
+	padding: 4rem;
+	border-radius: 8px;
+}
+
+footer {
+	padding: 5rem 4rem;
+	text-align: center;
+	margin: 4rem;
+}
